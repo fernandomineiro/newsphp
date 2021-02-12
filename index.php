@@ -4,7 +4,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="pt" class="no-js">
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -155,9 +155,9 @@ echo popularArticles() ?>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
         integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
         crossorigin="anonymous"></script>
-<!-- Waypoints -->
+
 <script src="js/jquery.waypoints.min.js"></script>
-<!-- Main -->
+
 <script src="js/main.js"></script>
 
 </body>
